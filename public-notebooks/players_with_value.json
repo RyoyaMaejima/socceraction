@@ -1,0 +1,3216 @@
+{
+  "Qatar": [
+    {
+      "player_name": "Boualem Khoukhi",
+      "position": "CB",
+      "value": 400000
+    },
+    {
+      "player_name": "Tarek Salman",
+      "position": "CB",
+      "value": 400000
+    },
+    {
+      "player_name": "Abdelkarim Hassan",
+      "position": "LB",
+      "value": 750000
+    },
+    {
+      "player_name": "Homam Ahmed",
+      "position": "LB",
+      "value": 500000
+    },
+    {
+      "player_name": "Pedro Miguel Correia",
+      "position": "RB",
+      "value": 325000
+    },
+    {
+      "player_name": "Bassam Hisham",
+      "position": "RB",
+      "value": 500000
+    },
+    {
+      "player_name": "Mosaab Khoder",
+      "position": "RB",
+      "value": 250000
+    },
+    {
+      "player_name": "Karim Boudiaf",
+      "position": "DM",
+      "value": 450000
+    },
+    {
+      "player_name": "Assim Madibo",
+      "position": "DM",
+      "value": 300000
+    },
+    {
+      "player_name": "Abdulaziz Hatem",
+      "position": "CM",
+      "value": 500000
+    },
+    {
+      "player_name": "Mohammed Al Bayati",
+      "position": "CM",
+      "value": 400000
+    },
+    {
+      "player_name": "Ali Assadalla",
+      "position": "AM",
+      "value": 200000
+    },
+    {
+      "player_name": "Akram Afif",
+      "position": "LW",
+      "value": 4000000
+    },
+    {
+      "player_name": "Hassan Al Heidos",
+      "position": "RW",
+      "value": 900000
+    },
+    {
+      "player_name": "Ismaeel Mohammad",
+      "position": "RW",
+      "value": 225000
+    },
+    {
+      "player_name": "Almoez Ali",
+      "position": "CF",
+      "value": 2000000
+    },
+    {
+      "player_name": "Mohammed Muntari",
+      "position": "CF",
+      "value": 300000
+    },
+    {
+      "player_name": "Ahmed Alaa Eldin",
+      "position": "CF",
+      "value": 600000
+    }
+  ],
+  "Netherlands": [
+    {
+      "player_name": "Virgil van Dijk",
+      "position": "CB",
+      "value": 50000000
+    },
+    {
+      "player_name": "Matthijs de Ligt",
+      "position": "CB",
+      "value": 70000000
+    },
+    {
+      "player_name": "Nathan Aké",
+      "position": "CB",
+      "value": 30000000
+    },
+    {
+      "player_name": "Daley Blind",
+      "position": "CB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Jurriën Timber",
+      "position": "CB",
+      "value": 45000000
+    },
+    {
+      "player_name": "Marten de Roon",
+      "position": "DM",
+      "value": 12000000
+    },
+    {
+      "player_name": "Teun Koopmeiners",
+      "position": "DM",
+      "value": 30000000
+    },
+    {
+      "player_name": "Frenkie de Jong",
+      "position": "CM",
+      "value": 50000000
+    },
+    {
+      "player_name": "Davy Klaassen",
+      "position": "CM",
+      "value": 12000000
+    },
+    {
+      "player_name": "Kenneth Taylor",
+      "position": "CM",
+      "value": 14000000
+    },
+    {
+      "player_name": "Denzel Dumfries",
+      "position": "RM",
+      "value": 28000000
+    },
+    {
+      "player_name": "Steven Berghuis",
+      "position": "AM",
+      "value": 14000000
+    },
+    {
+      "player_name": "Steven Bergwijn",
+      "position": "LW",
+      "value": 27000000
+    },
+    {
+      "player_name": "Noa Lang",
+      "position": "LW",
+      "value": 15000000
+    },
+    {
+      "player_name": "Xavi Simons",
+      "position": "RW",
+      "value": 18000000
+    },
+    {
+      "player_name": "Memphis Depay",
+      "position": "CF",
+      "value": 20000000
+    },
+    {
+      "player_name": "Wout Weghorst",
+      "position": "CF",
+      "value": 14000000
+    },
+    {
+      "player_name": "Luuk de Jong",
+      "position": "CF",
+      "value": 4000000
+    },
+    {
+      "player_name": "Cody Gakpo",
+      "position": "CF",
+      "value": 45000000
+    },
+    {
+      "player_name": "Vincent Janssen",
+      "position": "CF",
+      "value": 6000000
+    }
+  ],
+  "Senegal": [
+    {
+      "player_name": "Kalidou Koulibaly",
+      "position": "CB",
+      "value": 35000000
+    },
+    {
+      "player_name": "Abdou Diallo",
+      "position": "CB",
+      "value": 15000000
+    },
+    {
+      "player_name": "Pape Abou Cissé",
+      "position": "CB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Fodé Ballo Touré",
+      "position": "LB",
+      "value": 3500000
+    },
+    {
+      "player_name": "Ismail Jakobs",
+      "position": "LB",
+      "value": 7000000
+    },
+    {
+      "player_name": "Youssouf Sabaly",
+      "position": "RB",
+      "value": 4000000
+    },
+    {
+      "player_name": "Nampalys Mendy",
+      "position": "DM",
+      "value": 3500000
+    },
+    {
+      "player_name": "Cheikhou Kouyaté",
+      "position": "DM",
+      "value": 3000000
+    },
+    {
+      "player_name": "Pape Gueye",
+      "position": "DM",
+      "value": 10000000
+    },
+    {
+      "player_name": "Idrissa Gueye",
+      "position": "CM",
+      "value": 8000000
+    },
+    {
+      "player_name": "Pathé Ismaël Ciss",
+      "position": "CM",
+      "value": 4000000
+    },
+    {
+      "player_name": "Pape Sarr",
+      "position": "CM",
+      "value": 15000000
+    },
+    {
+      "player_name": "Krépin Diatta",
+      "position": "RW",
+      "value": 13000000
+    },
+    {
+      "player_name": "Ismaïla Sarr",
+      "position": "RW",
+      "value": 22000000
+    },   
+    {
+      "player_name": "Boulaye Dia",
+      "position": "CF",
+      "value": 12000000
+    },
+    {
+      "player_name": "Famara Diédhiou",
+      "position": "CF",
+      "value": 3000000
+    },
+    {
+      "player_name": "Nicolas Jackson",
+      "position": "CF",
+      "value": 15000000
+    },
+    {
+      "player_name": "Iliman Ndiaye",
+      "position": "CF",
+      "value": 3500000
+    },
+    {
+      "player_name": "Bamba Dieng",
+      "position": "CF",
+      "value": 8000000
+    }    
+  ],
+  "Ecuador": [
+    {
+      "player_name": "Félix Torres",
+      "position": "CB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Piero Hincapié",
+      "position": "CB",
+      "value": 22000000
+    },
+    {
+      "player_name": "Jackson Porozo",
+      "position": "CB",
+      "value": 3000000
+    },
+    {
+      "player_name": "Pervis Estupiñán",
+      "position": "LB",
+      "value": 20000000
+    },
+    {
+      "player_name": "Angelo Preciado",
+      "position": "RB",
+      "value": 3200000
+    },
+    {
+      "player_name": "Carlos Gruezo",
+      "position": "DM",
+      "value": 4000000
+    },
+    {
+      "player_name": "Moisés Caicedo",
+      "position": "DM",
+      "value": 38000000
+    },    
+    {
+      "player_name": "Jhegson Méndez",
+      "position": "DM",
+      "value": 1500000
+    },
+    {
+      "player_name": "José Cifuentes",
+      "position": "CM",
+      "value": 12000000
+    },
+    {
+      "player_name": "Alan Franco",
+      "position": "CM",
+      "value": 2500000
+    },
+    {
+      "player_name": "Jeremy Sarmiento",
+      "position": "AM",
+      "value": 3000000
+    },
+    {
+      "player_name": "Romario Ibarra",
+      "position": "LW",
+      "value": 1800000
+    },
+    {
+      "player_name": "Gonzalo Plata",
+      "position": "RW",
+      "value": 5000000
+    },
+    {
+      "player_name": "Michael Estrada",
+      "position": "CF",
+      "value": 3000000
+    },
+    {
+      "player_name": "Enner Valencia",
+      "position": "CF",
+      "value": 3000000
+    },
+    {
+      "player_name": "Djorkaeff Neicer Reasco González",
+      "position": "CF",
+      "value": 500000
+    },
+    {
+      "player_name": "Kevin José Rodríguez Cortéz",
+      "position": "CF",
+      "value": 300000
+    }
+  ],
+  "England": [
+    {
+      "player_name": "Harry Maguire",
+      "position": "CB",
+      "value": 30000000
+    },
+    {
+      "player_name": "Eric Dier",
+      "position": "CB",
+      "value": 30000000
+    },
+    {
+      "player_name": "John Stones",
+      "position": "CB",
+      "value": 30000000
+    },
+    {
+      "player_name": "Luke Shaw",
+      "position": "LB",
+      "value": 28000000
+    },
+    {
+      "player_name": "Trent Alexander-Arnold",
+      "position": "RB",
+      "value": 70000000
+    },
+    {
+      "player_name": "Kyle Walker",
+      "position": "RB",
+      "value": 15000000
+    },
+    {
+      "player_name": "Kieran Trippier",
+      "position": "RB",
+      "value": 13000000
+    },
+    {
+      "player_name": "Declan Rice",
+      "position": "DM",
+      "value": 80000000
+    },
+    {
+      "player_name": "Kalvin Phillips",
+      "position": "DM",
+      "value": 45000000
+    },
+    {
+      "player_name": "Jordan Henderson",
+      "position": "CM",
+      "value": 15000000
+    },
+    {
+      "player_name": "Jude Bellingham",
+      "position": "CM",
+      "value": 100000000
+    },   
+    {
+      "player_name": "Mason Mount",
+      "position": "AM",
+      "value": 75000000
+    },
+    {
+      "player_name": "Raheem Sterling",
+      "position": "LW",
+      "value": 70000000
+    },
+    {
+      "player_name": "Marcus Rashford",
+      "position": "LW",
+      "value": 55000000
+    },
+    {
+      "player_name": "Jack Grealish",
+      "position": "LW",
+      "value": 70000000
+    },
+    {
+      "player_name": "Philip Foden",
+      "position": "LW",
+      "value": 110000000
+    },
+    {
+      "player_name": "Bukayo Saka",
+      "position": "RW",
+      "value": 90000000
+    },
+    {
+      "player_name": "Harry Kane",
+      "position": "CF",
+      "value": 90000000
+    },
+    {
+      "player_name": "Callum Wilson",
+      "position": "CF",
+      "value": 18000000
+    }
+  ],
+  "United States": [
+    {
+      "player_name": "Walker Zimmerman",
+      "position": "CB",
+      "value": 3500000
+    },
+    {
+      "player_name": "Cameron Carter-Vickers",
+      "position": "CB",
+      "value": 9500000
+    },   
+    {
+      "player_name": "Tim Ream",
+      "position": "CB",
+      "value": 1000000
+    },
+    {
+      "player_name": "Antonee Robinson",
+      "position": "LB",
+      "value": 10000000
+    },
+    {
+      "player_name": "Sergiño Dest",
+      "position": "RB",
+      "value": 16000000
+    },
+    {
+      "player_name": "DeAndre Yedlin",
+      "position": "RB",
+      "value": 2000000
+    },
+    {
+      "player_name": "Shaq Moore",
+      "position": "RB",
+      "value": 1000000
+    },
+    {
+      "player_name": "Tyler Adams",
+      "position": "DM",
+      "value": 17000000
+    },
+    {
+      "player_name": "Kellyn Kai Perry-Acosta",
+      "position": "DM",
+      "value": 3000000
+    },
+    {
+      "player_name": "Weston McKennie",
+      "position": "CM",
+      "value": 21000000
+    },
+    {
+      "player_name": "Yunus Dimoara Musah",
+      "position": "CM",
+      "value": 20000000
+    },
+    {
+      "player_name": "Timothy Weah",
+      "position": "RM",
+      "value": 12000000
+    },
+    {
+      "player_name": "Giovanni Reyna",
+      "position": "AM",
+      "value": 35000000
+    },
+    {
+      "player_name": "Brenden Aaronson",
+      "position": "AM",
+      "value": 30000000
+    },
+    {
+      "player_name": "Jordan Morris",
+      "position": "LW",
+      "value": 4500000
+    },
+    {
+      "player_name": "Christian Pulisic",
+      "position": "LW",
+      "value": 38000000
+    },    
+    {
+      "player_name": "Josh Sargent",
+      "position": "CF",
+      "value": 12000000
+    },
+    {
+      "player_name": "Jesus Ferreira",
+      "position": "CF",
+      "value": 8000000
+    },
+    {
+      "player_name": "Haji Wright",
+      "position": "CF",
+      "value": 3400000
+    }
+  ],
+  "Iran": [
+    {
+      "player_name": "Majid Hosseini",
+      "position": "CB",
+      "value": 3000000
+    },
+    {
+      "player_name": "Morteza Pouraliganji",
+      "position": "CB",
+      "value": 700000
+    },
+    {
+      "player_name": "Mohammad Hossein Kanani Zadegan",
+      "position": "CB",
+      "value": 2000000
+    },   
+    {
+      "player_name": "Milad Mohammadi",
+      "position": "LB",
+      "value": 2000000
+    },
+    {
+      "player_name": "Ehsan Hajsafi",
+      "position": "LB",
+      "value": 800000
+    },
+    {
+      "player_name": "Sadegh Moharrami",
+      "position": "RB",
+      "value": 2000000
+    },
+    {
+      "player_name": "Ramin Rezaeian",
+      "position": "RB",
+      "value": 450000
+    },
+    {
+      "player_name": "Roozbeh Cheshmi",
+      "position": "DM",
+      "value": 500000
+    },
+    {
+      "player_name": "Saeid Ezatolahi",
+      "position": "DM",
+      "value": 400000
+    },   
+    {
+      "player_name": "Ahmad Nourollahi",
+      "position": "CM",
+      "value": 2000000
+    },
+    {
+      "player_name": "Ali Karimi",
+      "position": "CM",
+      "value": 100000
+    },
+    {
+      "player_name": "Mehdi Torabi",
+      "position": "LW",
+      "value": 800000
+    },
+    {
+      "player_name": "Alireza Jahanbakhsh",
+      "position": "RW",
+      "value": 3000000
+    },
+    {
+      "player_name": "Ali Gholizadeh",
+      "position": "RW",
+      "value": 2000000
+    },
+    {
+      "player_name": "Karim Ansarifard",
+      "position": "SS",
+      "value": 1000000
+    },
+    {
+      "player_name": "Sardar Azmoun",
+      "position": "CF",
+      "value": 12000000
+    },
+    {
+      "player_name": "Mehdi Taremi",
+      "position": "CF",
+      "value": 20000000
+    }
+  ],
+  "Wales": [
+    {
+      "player_name": "Joe Rodon",
+      "position": "CB",
+      "value": 9000000
+    },
+    {
+      "player_name": "Chris Mepham",
+      "position": "CB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Ben Davies",
+      "position": "LB",
+      "value": 20000000
+    },
+    {
+      "player_name": "Neco Williams",
+      "position": "RB",
+      "value": 18000000
+    },
+    {
+      "player_name": "Connor Roberts",
+      "position": "RB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Ethan Ampadu",
+      "position": "DM",
+      "value": 9000000
+    },
+    {
+      "player_name": "Joseff Morrell",
+      "position": "DM",
+      "value": 500000
+    },
+    {
+      "player_name": "Aaron Ramsey",
+      "position": "CM",
+      "value": 3000000
+    },
+    {
+      "player_name": "Joe Allen",
+      "position": "CM",
+      "value": 1000000
+    },
+    {
+      "player_name": "Rubin Colwill",
+      "position": "AM",
+      "value": 1500000
+    },
+    {
+      "player_name": "Daniel James",
+      "position": "LW",
+      "value": 16000000
+    },
+    {
+      "player_name": "Gareth Bale",
+      "position": "RW",
+      "value": 2000000
+    },
+    {
+      "player_name": "Harry Wilson",
+      "position": "RW",
+      "value": 17000000
+    },
+    {
+      "player_name": "Brennan Johnson",
+      "position": "RW",
+      "value": 20000000
+    },  
+    {
+      "player_name": "Sorba Thomas",
+      "position": "RW",
+      "value": 5000000
+    },
+    {
+      "player_name": "Kieffer Moore",
+      "position": "CF",
+      "value": 4000000
+    }
+  ],
+  "Argentina": [
+    {
+      "player_name": "Lisandro Martínez",
+      "position": "CB",
+      "value": 50000000
+    },
+    {
+      "player_name": "Cristian Romero",
+      "position": "CB",
+      "value": 55000000
+    },
+    {
+      "player_name": "Germán Pezzella",
+      "position": "CB",
+      "value": 5000000
+    },
+    {
+      "player_name": "Nicolás Otamendi",
+      "position": "CB",
+      "value": 3000000
+    },
+    {
+      "player_name": "Nicolás Tagliafico",
+      "position": "LB",
+      "value": 9000000
+    },
+    {
+      "player_name": "Marcos Acuña",
+      "position": "LB",
+      "value": 14000000
+    },
+    {
+      "player_name": "Juan Foyth",
+      "position": "RB",
+      "value": 25000000
+    },
+    {
+      "player_name": "Gonzalo Montiel",
+      "position": "RB",
+      "value": 12000000
+    },
+    {
+      "player_name": "Nahuel Molina",
+      "position": "RB",
+      "value": 18000000
+    },
+    {
+      "player_name": "Leandro Paredes",
+      "position": "DM",
+      "value": 15000000
+    },
+    {
+      "player_name": "Guido Rodríguez",
+      "position": "DM",
+      "value": 28000000
+    },
+    {
+      "player_name": "Rodrigo De Paul",
+      "position": "CM",
+      "value": 35000000
+    },
+    {
+      "player_name": "Exequiel Palacios",
+      "position": "CM",
+      "value": 15000000
+    },
+    {
+      "player_name": "Alexis MacAllister",
+      "position": "CM",
+      "value": 32000000
+    },
+    {
+      "player_name": "Enzo Fernandez",
+      "position": "CM",
+      "value": 35000000
+    },
+    {
+      "player_name": "Thiago Almada",
+      "position": "AM",
+      "value": 15000000
+    },
+    {
+      "player_name": "Papu Gómez",
+      "position": "LW",
+      "value": 4000000
+    },
+    {
+      "player_name": "Lionel Messi",
+      "position": "RW",
+      "value": 50000000
+    },
+    {
+      "player_name": "Ángel Correa",
+      "position": "RW",
+      "value": 40000000
+    },
+    {
+      "player_name": "Ángel Di María",
+      "position": "RW",
+      "value": 10000000
+    },
+    {
+      "player_name": "Paulo Dybala",
+      "position": "SS",
+      "value": 30000000
+    },
+    {
+      "player_name": "Julián Álvarez",
+      "position": "CF",
+      "value": 32000000
+    },
+    {
+      "player_name": "Lautaro Martínez",
+      "position": "CF",
+      "value": 75000000
+    }
+  ],
+  "Mexico": [
+    {
+      "player_name": "Néstor Araujo",
+      "position": "CB",
+      "value": 3000000
+    },
+    {
+      "player_name": "César Montes",
+      "position": "CB",
+      "value": 7000000
+    },
+    {
+      "player_name": "Héctor Moreno",
+      "position": "CB",
+      "value": 1500000
+    },
+    {
+      "player_name": "Jesús Gallardo",
+      "position": "LB",
+      "value": 3000000
+    },
+    {
+      "player_name": "Jorge Sánchez",
+      "position": "RB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Kevin Álvarez",
+      "position": "RB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Edson Álvarez",
+      "position": "DM",
+      "value": 35000000
+    },
+    {
+      "player_name": "Luis Chávez",
+      "position": "DM",
+      "value": 6500000
+    },
+    {
+      "player_name": "Héctor Herrera",
+      "position": "CM",
+      "value": 2800000
+    },
+    {
+      "player_name": "Carlos Alberto Rodríguez",
+      "position": "CM",
+      "value": 8000000
+    },
+    {
+      "player_name": "Orbelín Pineda",
+      "position": "CM",
+      "value": 4000000
+    },
+    {
+      "player_name": "Erick Gutiérrez",
+      "position": "CM",
+      "value": 7000000
+    },
+    {
+      "player_name": "Andrés Guardado",
+      "position": "CM",
+      "value": 1500000
+    },
+    {
+      "player_name": "Alexis Vega",
+      "position": "LW",
+      "value": 8000000
+    },
+    {
+      "player_name": "Hirving Lozano",
+      "position": "RW",
+      "value": 28000000
+    },
+    {
+      "player_name": "Roberto Alvarado",
+      "position": "RW",
+      "value": 5000000
+    },
+    {
+      "player_name": "Uriel Antuna",
+      "position": "RW",
+      "value": 4000000
+    },
+    {
+      "player_name": "Raúl Jiménez",
+      "position": "CF",
+      "value": 12000000
+    },
+    {
+      "player_name": "Rogelio Funes Mori",
+      "position": "CF",
+      "value": 3500000
+    },
+    {
+      "player_name": "Henry Martín",
+      "position": "CF",
+      "value": 6000000
+    }
+  ],
+  "Poland": [
+    {
+      "player_name": "Kamil Glik",
+      "position": "CB",
+      "value": 800000
+    },
+    {
+      "player_name": "Artur Jędrzejczyk",
+      "position": "CB",
+      "value": 300000
+    },
+    {
+      "player_name": "Jakub Piotr Kiwior",
+      "position": "CB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Matty Cash",
+      "position": "RB",
+      "value": 22000000
+    },
+    {
+      "player_name": "Bartosz Bereszyński",
+      "position": "RB",
+      "value": 3000000
+    },
+    {
+      "player_name": "Grzegorz Krychowiak",
+      "position": "DM",
+      "value": 6000000
+    },
+    {
+      "player_name": "Krystian Bielik",
+      "position": "DM",
+      "value": 3000000
+    },
+    {
+      "player_name": "Damian Szymański",
+      "position": "DM",
+      "value": 2000000
+    },
+    {
+      "player_name": "Piotr Zieliński",
+      "position": "CM",
+      "value": 40000000
+    },
+    {
+      "player_name": "Nicola Zalewski",
+      "position": "LM",
+      "value": 15000000
+    },
+    {
+      "player_name": "Przemysław Frankowski",
+      "position": "RM",
+      "value": 7000000
+    },
+    {
+      "player_name": "Sebastian Szymański",
+      "position": "AM",
+      "value": 14000000
+    },
+    {
+      "player_name": "Jakub Kamiński",
+      "position": "LW",
+      "value": 10000000
+    },
+    {
+      "player_name": "Michał Skóraś",
+      "position": "LW",
+      "value": 3500000
+    },
+    {
+      "player_name": "Robert Lewandowski",
+      "position": "CF",
+      "value": 45000000
+    },
+    {
+      "player_name": "Arkadiusz Milik",
+      "position": "CF",
+      "value": 10000000
+    },
+    {
+      "player_name": "Krzysztof Piątek",
+      "position": "CF",
+      "value": 11000000
+    },
+    {
+      "player_name": "Karol Świderski",
+      "position": "CF",
+      "value": 5000000
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "player_name": "Ali Albulayhi",
+      "position": "CB",
+      "value": 400000
+    },
+    {
+      "player_name": "Abdullah Madu",
+      "position": "CB",
+      "value": 900000
+    },
+    {
+      "player_name": "Hassan Mohammed Al Tambakti",
+      "position": "CB",
+      "value": 1000000
+    },
+    {
+      "player_name": "Abdulelah Al Amri",
+      "position": "CB",
+      "value": 1200000
+    },
+    {
+      "player_name": "Yasir Al Shahrani",
+      "position": "LB",
+      "value": 1500000
+    },
+    {
+      "player_name": "Nasser Al Dawsari",
+      "position": "LB",
+      "value": 700000
+    },
+    {
+      "player_name": "Mohammed Al Burayk",
+      "position": "RB",
+      "value": 1200000
+    },
+    {
+      "player_name": "Sultan Al Ghanam",
+      "position": "RB",
+      "value": 2500000
+    },
+    {
+      "player_name": "Saud Abdul Hamid",
+      "position": "RB",
+      "value": 1700000
+    },
+    {
+      "player_name": "Abdulelah Al Malki",
+      "position": "DM",
+      "value": 800000
+    },
+    {
+      "player_name": "Ali Al-Hassan",
+      "position": "DM",
+      "value": 500000
+    },
+    {
+      "player_name": "Riyadh Sharahili",
+      "position": "DM",
+      "value": 400000
+    },
+    {
+      "player_name": "Mohammed Kanoo",
+      "position": "CM",
+      "value": 1200000
+    },
+    {
+      "player_name": "Salman Al Faraj",
+      "position": "CM",
+      "value": 500000
+    },
+    {
+      "player_name": "Nawaf Al Abid",
+      "position": "AM",
+      "value": 300000
+    },
+    {
+      "player_name": "Sami Al Naji",
+      "position": "AM",
+      "value": 1500000
+    },
+    {
+      "player_name": "Salem Al Dawsari",
+      "position": "LW",
+      "value": 1800000
+    },
+    {
+      "player_name": "Hattan Babhir",
+      "position": "LW",
+      "value": 900000
+    },
+    {
+      "player_name": "Abdulrahman Al Obod",
+      "position": "RW",
+      "value": 1500000
+    },
+    {
+      "player_name": "Haitham Asiri",
+      "position": "RW",
+      "value": 400000
+    },
+    {
+      "player_name": "Saleh Al Shehri",
+      "position": "CF",
+      "value": 700000
+    },
+    {
+      "player_name": "Firas Albirakan",
+      "position": "CF",
+      "value": 1800000
+    }
+  ],
+  "France": [
+    {
+      "player_name": "Raphaël Varane",
+      "position": "CB",
+      "value": 40000000
+    },
+    {
+      "player_name": "Dayotchanculle Upamecano",
+      "position": "CB",
+      "value": 50000000
+    },
+    {
+      "player_name": "Ibrahima Konaté",
+      "position": "CB",
+      "value": 35000000
+    },
+    {
+      "player_name": "Jules Koundé",
+      "position": "CB",
+      "value": 60000000
+    },
+    {
+      "player_name": "William Saliba",
+      "position": "CB",
+      "value": 50000000
+    },
+    {
+      "player_name": "Axel Disasi",
+      "position": "CB",
+      "value": 25000000
+    },
+    {
+      "player_name": "Lucas Hernandez",
+      "position": "LB",
+      "value": 50000000
+    },
+    {
+      "player_name": "Theo Hernández",
+      "position": "LB",
+      "value": 55000000
+    },
+    {
+      "player_name": "Benjamin Pavard",
+      "position": "RB",
+      "value": 35000000
+    },
+    {
+      "player_name": "Aurélien Tchouaméni",
+      "position": "DM",
+      "value": 80000000
+    },
+    {
+      "player_name": "Eduardo Camavinga",
+      "position": "CM",
+      "value": 50000000
+    },
+    {
+      "player_name": "Mattéo Guendouzi",
+      "position": "CM",
+      "value": 25000000
+    },
+    {
+      "player_name": "Adrien Rabiot",
+      "position": "CM",
+      "value": 18000000
+    },
+    {
+      "player_name": "Jordan Veretout",
+      "position": "CM",
+      "value": 14000000
+    },
+    {
+      "player_name": "Youssouf Fofana",
+      "position": "CM",
+      "value": 25000000
+    },
+    {
+      "player_name": "Kylian Mbappé",
+      "position": "LW",
+      "value": 160000000
+    },
+    {
+      "player_name": "Kingsley Coman",
+      "position": "LW",
+      "value": 60000000
+    },
+    {
+      "player_name": "Ousmane Dembélé",
+      "position": "RW",
+      "value": 60000000
+    },
+    {
+      "player_name": "Antoine Griezmann",
+      "position": "CF",
+      "value": 25000000
+    },
+    {
+      "player_name": "Marcus Thuram",
+      "position": "CF",
+      "value": 30000000
+    },
+    {
+      "player_name": "Olivier Giroud",
+      "position": "CF",
+      "value": 4000000
+    },
+    {
+      "player_name": "Randal Kolo",
+      "position": "CF",
+      "value": 30000000
+    }
+  ],
+  "Denmark": [
+    {
+      "player_name": "Andreas Christensen",
+      "position": "CB",
+      "value": 30000000
+    },
+    {
+      "player_name": "Joachim Andersen",
+      "position": "CB",
+      "value": 32000000
+    },
+    {
+      "player_name": "Simon Kjær",
+      "position": "CB",
+      "value": 5000000
+    },
+    {
+      "player_name": "Victor Nelsson",
+      "position": "CB",
+      "value": 14000000
+    },
+    {
+      "player_name": "Joakim Maehle",
+      "position": "RB",
+      "value": 14000000
+    },
+    {
+      "player_name": "Rasmus Kristensen",
+      "position": "RB",
+      "value": 15000000
+    },
+    {
+      "player_name": "Alexander Bah",
+      "position": "RB",
+      "value": 8000000
+    },
+    {
+      "player_name": "Pierre-Emile Højbjerg",
+      "position": "DM",
+      "value": 45000000
+    },
+    {
+      "player_name": "Christian Nørgaard",
+      "position": "DM",
+      "value": 14000000
+    },
+    {
+      "player_name": "Christian Eriksen",
+      "position": "CM",
+      "value": 25000000
+    },
+    {
+      "player_name": "Thomas Delaney",
+      "position": "CM",
+      "value": 3000000
+    },
+    {
+      "player_name": "Mathias Jensen",
+      "position": "CM",
+      "value": 14000000
+    },
+    {
+      "player_name": "Robert Skov",
+      "position": "LM",
+      "value": 9000000
+    },
+    {
+      "player_name": "Jesper Lindstrøm",
+      "position": "AM",
+      "value": 28000000
+    },
+    {
+      "player_name": "Mikkel Damsgaard",
+      "position": "LW",
+      "value": 15000000
+    },
+    {
+      "player_name": "Andreas Skov Olsen",
+      "position": "RW",
+      "value": 20000000
+    },
+    {
+      "player_name": "Kasper Dolberg",
+      "position": "CF",
+      "value": 12000000
+    },
+    {
+      "player_name": "Andreas Cornelius",
+      "position": "CF",
+      "value": 6000000
+    },
+    {
+      "player_name": "Martin Braithwaite",
+      "position": "CF",
+      "value": 5000000
+    }
+  ],
+  "Tunisia": [
+    {
+      "player_name": "Dylan Daniel Mahmoud Bronn",
+      "position": "CB",
+      "value": 3000000
+    },
+    {
+      "player_name": "Yassine Meriah",
+      "position": "CB",
+      "value": 2000000
+    },
+    {
+      "player_name": "Montassar Omar Talbi",
+      "position": "CB",
+      "value": 4000000
+    },
+    {
+      "player_name": "Nader Ghandri",
+      "position": "CB",
+      "value": 650000
+    },
+    {
+      "player_name": "Ali Maâloul",
+      "position": "LB",
+      "value": 1500000
+    },
+    {
+      "player_name": "Ali Abdi",
+      "position": "LB",
+      "value": 1500000
+    },
+    {
+      "player_name": "Mohamed Dräger",
+      "position": "RB",
+      "value": 1300000
+    },
+    {
+      "player_name": "Wajdi Kechrida",
+      "position": "RB",
+      "value": 800000
+    },
+    {
+      "player_name": "Ellyes Joris Skhiri",
+      "position": "DM",
+      "value": 13000000
+    },
+    {
+      "player_name": "Ferjani Sassi",
+      "position": "CM",
+      "value": 1750000
+    },
+    {
+      "player_name": "Anis Slimane",
+      "position": "CM",
+      "value": 3500000
+    },
+    {
+      "player_name": "Ghilane Chalali",
+      "position": "CM",
+      "value": 1200000
+    },
+    {
+      "player_name": "Aïssa Laïdouni",
+      "position": "CM",
+      "value": 4000000
+    },
+    {
+      "player_name": "Mohamed Ali Ben Romdhane",
+      "position": "CM",
+      "value": 2700000
+    },
+    {
+      "player_name": "Hannibal Mejbri",
+      "position": "AM",
+      "value": 6000000
+    },
+    {
+      "player_name": "Naïm Sliti",
+      "position": "LW",
+      "value": 6000000
+    },
+    {
+      "player_name": "Youssef Msakni",
+      "position": "LW",
+      "value": 1200000
+    },
+    {
+      "player_name": "Wahbi Khazri",
+      "position": "CF",
+      "value": 3000000
+    },
+    {
+      "player_name": "Taha Yassine Khenissi",
+      "position": "CF",
+      "value": 600000
+    },
+    {
+      "player_name": "Issam Jebali",
+      "position": "CF",
+      "value": 500000
+    }
+  ],
+  "Australia": [
+    {
+      "player_name": "Harry Souttar",
+      "position": "CB",
+      "value": 4500000
+    },
+    {
+      "player_name": "Miloš Degenek",
+      "position": "CB",
+      "value": 2000000
+    },
+    {
+      "player_name": "Bailey Wright",
+      "position": "CB",
+      "value": 700000
+    },
+    {
+      "player_name": "Kye Rowles",
+      "position": "CB",
+      "value": 600000
+    },
+    {
+      "player_name": "Aziz Behich",
+      "position": "LB",
+      "value": 700000
+    },
+    {
+      "player_name": "Fran Karačić",
+      "position": "RB",
+      "value": 1200000
+    },
+    {
+      "player_name": "Nathaniel Atkinson",
+      "position": "RB",
+      "value": 1000000
+    },
+    {
+      "player_name": "Keanu Baccus",
+      "position": "DM",
+      "value": 650000
+    },
+    {
+      "player_name": "Aaron Mooy",
+      "position": "CM",
+      "value": 4000000
+    },
+    {
+      "player_name": "Jackson Irvine",
+      "position": "CM",
+      "value": 2000000
+    },
+    {
+      "player_name": "Ajdin Hrustic",
+      "position": "CM",
+      "value": 1800000
+    },
+    {
+      "player_name": "Awer Mabil",
+      "position": "LM",
+      "value": 1500000
+    },
+    {
+      "player_name": "Mathew Leckie",
+      "position": "LW",
+      "value": 800000
+    },
+    {
+      "player_name": "Craig Goodwin",
+      "position": "LW",
+      "value": 1200000
+    },
+    {
+      "player_name": "Riley McGree",
+      "position": "LM",
+      "value": 2000000
+    },
+    {
+      "player_name": "Garang Kuol",
+      "position": "LW",
+      "value": 800000
+    },
+    {
+      "player_name": "Jamie Maclaren",
+      "position": "CF",
+      "value": 1800000
+    },
+    {
+      "player_name": "Jason Cummings",
+      "position": "CF",
+      "value": 900000
+    },
+    {
+      "player_name": "Mitchell Duke",
+      "position": "CF",
+      "value": 800000
+    }
+  ],
+  "Spain": [
+    {
+      "player_name": "Aymeric Laporte",
+      "position": "CB",
+      "value": 38000000
+    },
+    {
+      "player_name": "Pau Torres",
+      "position": "CB",
+      "value": 50000000
+    },
+    {
+      "player_name": "Jordi Alba",
+      "position": "LB",
+      "value": 5000000
+    },
+    {
+      "player_name": "Alejandro Balde",
+      "position": "LB",
+      "value": 15000000
+    },
+    {
+      "player_name": "Daniel Carvajal",
+      "position": "RB",
+      "value": 18000000
+    },
+    {
+      "player_name": "César Azpilicueta",
+      "position": "RB",
+      "value": 8000000
+    },
+    {
+      "player_name": "Rodri",
+      "position": "DM",
+      "value": 80000000
+    },
+    {
+      "player_name": "Sergio Busquets",
+      "position": "DM",
+      "value": 5000000
+    },
+    {
+      "player_name": "Koke",
+      "position": "CM",
+      "value": 18000000
+    },
+    {
+      "player_name": "Marcos Llorente",
+      "position": "CM",
+      "value": 35000000
+    },
+    {
+      "player_name": "Pedri",
+      "position": "CM",
+      "value": 100000000
+    },
+    {
+      "player_name": "Carlos Soler",
+      "position": "CM",
+      "value": 35000000
+    },
+    {
+      "player_name": "Gavi",
+      "position": "CM",
+      "value": 90000000
+    },
+    {
+      "player_name": "Daniel Olmo",
+      "position": "AM",
+      "value": 40000000
+    },
+    {
+      "player_name": "Ansu Fati",
+      "position": "LW",
+      "value": 50000000
+    },
+    {
+      "player_name": "Marco Asensio Willemsen",
+      "position": "RW",
+      "value": 25000000
+    },
+    {
+      "player_name": "Nico Williams",
+      "position": "RW",
+      "value": 25000000
+    },
+    {
+      "player_name": "Ferrán Torres",
+      "position": "RW",
+      "value": 35000000
+    },
+    {
+      "player_name": "Pablo Sarabia",
+      "position": "RW",
+      "value": 20000000
+    },
+    {
+      "player_name": "Álvaro Morata",
+      "position": "CF",
+      "value": 25000000
+    }
+  ],
+  "Germany": [
+    {
+      "player_name": "Niklas Süle",
+      "position": "CB",
+      "value": 35000000
+    },
+    {
+      "player_name": "Matthias Ginter",
+      "position": "CB",
+      "value": 20000000
+    },
+    {
+      "player_name": "Thilo Kehrer",
+      "position": "CB",
+      "value": 22000000
+    },
+    {
+      "player_name": "Antonio Rüdiger",
+      "position": "CB",
+      "value": 40000000
+    },
+    {
+      "player_name": "Nico Schlotterbeck",
+      "position": "CB",
+      "value": 33000000
+    },
+    {
+      "player_name": "David Raum",
+      "position": "LB",
+      "value": 26000000
+    },
+    {
+      "player_name": "Lukas Klostermann",
+      "position": "RB",
+      "value": 14000000
+    },
+    {
+      "player_name": "Joshua Kimmich",
+      "position": "DM",
+      "value": 80000000
+    },
+    {
+      "player_name": "Leon Goretzka",
+      "position": "CM",
+      "value": 65000000
+    },
+    {
+      "player_name": "İlkay Gündoğan",
+      "position": "CM",
+      "value": 25000000
+    },
+    {
+      "player_name": "Kai Havertz",
+      "position": "AM",
+      "value": 70000000
+    },
+    {
+      "player_name": "Mario Götze",
+      "position": "AM",
+      "value": 13000000
+    },
+    {
+      "player_name": "Jamal Musiala",
+      "position": "AM",
+      "value": 100000000
+    },
+    {
+      "player_name": "Jonas Hofmann",
+      "position": "RW",
+      "value": 13000000
+    },
+    {
+      "player_name": "Serge Gnabry",
+      "position": "RW",
+      "value": 65000000
+    },
+    {
+      "player_name": "Leroy Sané",
+      "position": "RW",
+      "value": 70000000
+    },
+    {
+      "player_name": "Thomas Müller",
+      "position": "SS",
+      "value": 18000000
+    },
+    {
+      "player_name": "Youssoufa Moukoko",
+      "position": "CF",
+      "value": 30000000
+    },
+    {
+      "player_name": "Niclas Füllkrug",
+      "position": "CF",
+      "value": 5000000
+    }
+  ],
+  "Japan": [
+    {
+      "player_name": "Maya Yoshida",
+      "position": "CB",
+      "value": 1500000
+    },
+    {
+      "player_name": "Shogo Taniguchi",
+      "position": "CB",
+      "value": 1800000
+    },
+    {
+      "player_name": "Ko Itakura",
+      "position": "CB",
+      "value": 12000000
+    },
+    {
+      "player_name": "Hiroki Ito",
+      "position": "CB",
+      "value": 5500000
+    },
+    {
+      "player_name": "Yuto Nagatomo",
+      "position": "LB",
+      "value": 400000
+    },
+    {
+      "player_name": "Takehiro Tomiyasu",
+      "position": "RB",
+      "value": 25000000
+    },
+    {
+      "player_name": "Hiroki Sakai",
+      "position": "RB",
+      "value": 1700000
+    },
+    {
+      "player_name": "Miki Yamane",
+      "position": "RB",
+      "value": 1700000
+    },
+    {
+      "player_name": "Wataru Endo",
+      "position": "DM",
+      "value": 6500000
+    },
+    {
+      "player_name": "Hidemasa Morita",
+      "position": "CM",
+      "value": 7000000
+    },
+    {
+      "player_name": "Ao Tanaka",
+      "position": "CM",
+      "value": 1800000
+    },
+    {
+      "player_name": "Daichi Kamada",
+      "position": "AM",
+      "value": 30000000
+    },
+    {
+      "player_name": "Takumi Minamino",
+      "position": "LW",
+      "value": 10000000
+    },
+    {
+      "player_name": "Kaoru Mitoma",
+      "position": "LW",
+      "value": 6000000
+    },
+    {
+      "player_name": "Yuki Soma",
+      "position": "LW",
+      "value": 1200000
+    },
+    {
+      "player_name": "Takefusa Kubo",
+      "position": "RW",
+      "value": 12000000
+    },
+    {
+      "player_name": "Ritsu Doan",
+      "position": "RW",
+      "value": 12000000
+    },
+    {
+      "player_name": "Junya Ito",
+      "position": "RW",
+      "value": 9000000
+    },
+    {
+      "player_name": "Daizen Maeda",
+      "position": "CF",
+      "value": 4000000
+    },
+    {
+      "player_name": "Takuma Asano",
+      "position": "CF",
+      "value": 3000000
+    },
+    {
+      "player_name": "Ayase Ueda",
+      "position": "CF",
+      "value": 2000000
+    }
+  ],
+  "Costa Rica": [
+    {
+      "player_name": "Francisco Calvo",
+      "position": "CB",
+      "value": 1700000
+    },
+    {
+      "player_name": "Óscar Duarte",
+      "position": "CB",
+      "value": 600000
+    },
+    {
+      "player_name": "Kendall Waston",
+      "position": "CB",
+      "value": 175000
+    },
+    {
+      "player_name": "Juan Pablo Vargas",
+      "position": "CB",
+      "value": 1700000
+    },
+    {
+      "player_name": "Daniel Alonso Chacón Salas",
+      "position": "CB",
+      "value": 300000
+    },
+    {
+      "player_name": "Ronald Matarrita",
+      "position": "LB",
+      "value": 1500000
+    },
+    {
+      "player_name": "Bryan Oviedo",
+      "position": "LB",
+      "value": 200000
+    },
+    {
+      "player_name": "Carlos Martínez",
+      "position": "RB",
+      "value": 275000
+    },
+    {
+      "player_name": "Keysher Fuller Spence",
+      "position": "RB",
+      "value": 250000
+    },
+    {
+      "player_name": "Yeltsin Tejeda",
+      "position": "DM",
+      "value": 275000
+    },
+    {
+      "player_name": "Youstin Delfin Salas Gómez",
+      "position": "DM",
+      "value": 250000
+    },
+    {
+      "player_name": "Celso Borges",
+      "position": "CM",
+      "value": 200000
+    },
+    {
+      "player_name": "Roan Roberto Wilson Gordon",
+      "position": "CM",
+      "value": 250000
+    },
+    {
+      "player_name": "Gerson Torres Barrantes",
+      "position": "RM",
+      "value": 325000
+    },
+    {
+      "player_name": "Bryan Ruiz",
+      "position": "AM",
+      "value": 150000
+    },
+    {
+      "player_name": "Brandon Aguilera Zamora",
+      "position": "AM",
+      "value": 275000
+    },
+    {
+      "player_name": "Alvaro José Zamora Mata",
+      "position": "LW",
+      "value": 200000
+    },
+    {
+      "player_name": "Jewison Bennette",
+      "position": "LW",
+      "value": 1000000
+    },
+    {
+      "player_name": "Joel Campbell",
+      "position": "RW",
+      "value": 2500000
+    },
+    {
+      "player_name": "Johan Venegas",
+      "position": "CF",
+      "value": 300000
+    },
+    {
+      "player_name": "Anthony Daniel Contreras Enríquez",
+      "position": "CF",
+      "value": 375000
+    }
+  ],
+  "Belgium": [
+    {
+      "player_name": "Toby Alderweireld",
+      "position": "CB",
+      "value": 4000000
+    },
+    {
+      "player_name": "Jan Vertonghen",
+      "position": "CB",
+      "value": 1800000
+    },
+    {
+      "player_name": "Timothy Castagne",
+      "position": "RB",
+      "value": 28000000
+    },
+    {
+      "player_name": "Thomas Meunier",
+      "position": "RB",
+      "value": 6500000
+    },
+    {
+      "player_name": "Axel Witsel",
+      "position": "DM",
+      "value": 5000000
+    },
+    {
+      "player_name": "Leander Dendoncker",
+      "position": "DM",
+      "value": 22000000
+    },
+    {
+      "player_name": "Amadou Onana",
+      "position": "DM",
+      "value": 35000000
+    },
+    {
+      "player_name": "Youri Tielemans",
+      "position": "CM",
+      "value": 40000000
+    },
+    {
+      "player_name": "Kevin De Bruyne",
+      "position": "AM",
+      "value": 80000000
+    },
+    {
+      "player_name": "Charles De Ketelaere",
+      "position": "AM",
+      "value": 30000000
+    },
+    {
+      "player_name": "Eden Hazard",
+      "position": "LW",
+      "value": 7500000
+    },
+    {
+      "player_name": "Thorgan Hazard",
+      "position": "LW",
+      "value": 9000000
+    },
+    {
+      "player_name": "Yannick Carrasco",
+      "position": "LW",
+      "value": 30000000
+    },
+    {
+      "player_name": "Jérémy Doku",
+      "position": "LW",
+      "value": 18000000
+    },
+    {
+      "player_name": "Leandro Trossard",
+      "position": "LW",
+      "value": 30000000
+    },
+    {
+      "player_name": "Dries Mertens",
+      "position": "SS",
+      "value": 3400000
+    },
+    {
+      "player_name": "Romelu Lukaku",
+      "position": "CF",
+      "value": 55000000
+    },
+    {
+      "player_name": "Michy Batshuayi",
+      "position": "CF",
+      "value": 10000000
+    },
+    {
+      "player_name": "Loïs Openda",
+      "position": "CF",
+      "value": 12000000
+    }
+  ],
+  "Croatia": [
+    {
+      "player_name": "Joško Gvardiol",
+      "position": "CB",
+      "value": 60000000
+    },
+    {
+      "player_name": "Dejan Lovren",
+      "position": "CB",
+      "value": 3500000
+    },
+    {
+      "player_name": "Josip Šutalo",
+      "position": "CB",
+      "value": 18000000
+    },
+    {
+      "player_name": "Borna Barišić",
+      "position": "LB",
+      "value": 6500000
+    },
+    {
+      "player_name": "Borna Sosa",
+      "position": "LB",
+      "value": 20000000
+    },
+    {
+      "player_name": "Josip Juranović",
+      "position": "RB",
+      "value": 6500000
+    },
+    {
+      "player_name": "Josip Stanišić",
+      "position": "RB",
+      "value": 8000000
+    },
+    {
+      "player_name": "Marcelo Brozović",
+      "position": "DM",
+      "value": 35000000
+    },
+    {
+      "player_name": "Mateo Kovačić",
+      "position": "CM",
+      "value": 40000000
+    },
+    {
+      "player_name": "Luka Modrić",
+      "position": "CM",
+      "value": 10000000
+    },
+    {
+      "player_name": "Ivan Perišić",
+      "position": "LM",
+      "value": 10000000
+    },
+    {
+      "player_name": "Nikola Vlašić",
+      "position": "AM",
+      "value": 20000000
+    },
+    {
+      "player_name": "Mario Pašalić",
+      "position": "AM",
+      "value": 25000000
+    },
+    {
+      "player_name": "Lovro Majer",
+      "position": "AM",
+      "value": 22000000
+    },
+    {
+      "player_name": "Mislav Oršić",
+      "position": "LW",
+      "value": 10000000
+    },
+    {
+      "player_name": "Andrej Kramarić",
+      "position": "CF",
+      "value": 9000000
+    },
+    {
+      "player_name": "Bruno Petković",
+      "position": "CF",
+      "value": 6000000
+    },
+    {
+      "player_name": "Ante Budimir",
+      "position": "CF",
+      "value": 6000000
+    },
+    {
+      "player_name": "Marko Livaja",
+      "position": "CF",
+      "value": 8000000
+    }
+  ],
+  "Morocco": [
+    {
+      "player_name": "Romain Saïss",
+      "position": "CB",
+      "value": 6500000
+    },
+    {
+      "player_name": "Nayef Aguerd",
+      "position": "CB",
+      "value": 25000000
+    },
+    {
+      "player_name": "Jawad El Yamiq",
+      "position": "CB",
+      "value": 1200000
+    },
+    {
+      "player_name": "Badr Banoun",
+      "position": "CB",
+      "value": 1000000
+    },
+    {
+      "player_name": "Achraf Dari",
+      "position": "CB",
+      "value": 2500000
+    },
+    {
+      "player_name": "Yahia Attiyat allah",
+      "position": "LB",
+      "value": 1500000
+    },
+    {
+      "player_name": "Achraf Hakimi",
+      "position": "RB",
+      "value": 65000000
+    },
+    {
+      "player_name": "Noussair Mazraoui",
+      "position": "RB",
+      "value": 25000000
+    },
+    {
+      "player_name": "Sofyan Amrabat",
+      "position": "DM",
+      "value": 10000000
+    },
+    {
+      "player_name": "Yahya Jabrane",
+      "position": "DM",
+      "value": 1900000
+    },
+    {
+      "player_name": "Azzedine Ounahi",
+      "position": "CM",
+      "value": 3500000
+    },
+    {
+      "player_name": "Selim Amallah",
+      "position": "AM",
+      "value": 4500000
+    },
+    {
+      "player_name": "Abdelhamid Sabiri",
+      "position": "AM",
+      "value": 3000000
+    },
+    {
+      "player_name": "Sofiane Boufal",
+      "position": "LW",
+      "value": 8000000
+    },
+    {
+      "player_name": "Abde Ezzalzouli",
+      "position": "LW",
+      "value": 8000000
+    },
+    {
+      "player_name": "Hakim Ziyech",
+      "position": "RW",
+      "value": 17000000
+    },
+    {
+      "player_name": "Zakaria Aboukhlal",
+      "position": "RW",
+      "value": 3500000
+    },
+    {
+      "player_name": "Youssef En-Nesyri",
+      "position": "CF",
+      "value": 12000000
+    },
+    {
+      "player_name": "Abderrazak Hamdallah",
+      "position": "CF",
+      "value": 3000000
+    },
+    {
+      "player_name": "Walid Cheddira",
+      "position": "CF",
+      "value": 2500000
+    }
+  ],
+  "Canada": [
+    {
+      "player_name": "Kamal Miller",
+      "position": "CB",
+      "value": 4000000
+    },
+    {
+      "player_name": "Steven Vitória",
+      "position": "CB",
+      "value": 100000
+    },
+    {
+      "player_name": "Alphonso Davies",
+      "position": "LB",
+      "value": 70000000
+    },
+    {
+      "player_name": "Sam Adekugbe",
+      "position": "LB",
+      "value": 2000000
+    },
+    {
+      "player_name": "Richie Laryea",
+      "position": "RB",
+      "value": 2500000
+    },
+    {
+      "player_name": "Alistair Johnston",
+      "position": "RB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Atiba Hutchinson",
+      "position": "DM",
+      "value": 200000
+    },
+    {
+      "player_name": "Jonathan Osorio",
+      "position": "CM",
+      "value": 3500000
+    },
+    {
+      "player_name": "Mark Anthony Kaye",
+      "position": "CM",
+      "value": 3000000
+    },
+    {
+      "player_name": "Stephen Antunes Eustáquio",
+      "position": "CM",
+      "value": 8000000
+    },
+    {
+      "player_name": "Ismael Koné",
+      "position": "CM",
+      "value": 6000000
+    },
+    {
+      "player_name": "Tajon Buchanan",
+      "position": "RM",
+      "value": 12000000
+    },
+    {
+      "player_name": "David Wotherspoon",
+      "position": "AM",
+      "value": 600000
+    },
+    {
+      "player_name": "Junior Hoilett",
+      "position": "LW",
+      "value": 800000
+    },
+    {
+      "player_name": "Liam Millar",
+      "position": "LW",
+      "value": 2300000
+    },
+    {
+      "player_name": "Jonathan David",
+      "position": "CF",
+      "value": 45000000
+    },
+    {
+      "player_name": "Cyle Larin",
+      "position": "CF",
+      "value": 6000000
+    },
+    {
+      "player_name": "Lucas Cavallini",
+      "position": "CF",
+      "value": 2000000
+    }
+  ],
+  "Brazil": [
+    {
+      "player_name": "Marquinhos",
+      "position": "CB",
+      "value": 70000000
+    },
+    {
+      "player_name": "Éder Militão",
+      "position": "CB",
+      "value": 60000000
+    },
+    {
+      "player_name": "Bremer",
+      "position": "CB",
+      "value": 40000000
+    },
+    {
+      "player_name": "Thiago Silva",
+      "position": "CB",
+      "value": 2500000
+    },
+    {
+      "player_name": "Alex Telles",
+      "position": "LB",
+      "value": 14000000
+    },
+    {
+      "player_name": "Alex Sandro",
+      "position": "LB",
+      "value": 4500000
+    },
+    {
+      "player_name": "Danilo",
+      "position": "RB",
+      "value": 12000000
+    },
+    {
+      "player_name": "Dani Alves",
+      "position": "RB",
+      "value": 1000000
+    },
+    {
+      "player_name": "Casemiro",
+      "position": "DM",
+      "value": 50000000
+    },
+    {
+      "player_name": "Fabinho",
+      "position": "DM",
+      "value": 55000000
+    },
+    {
+      "player_name": "Bruno Guimarães",
+      "position": "DM",
+      "value": 60000000
+    },
+    {
+      "player_name": "Fred",
+      "position": "CM",
+      "value": 20000000
+    },
+    {
+      "player_name": "Lucas Paquetá",
+      "position": "AM",
+      "value": 45000000
+    },
+    {
+      "player_name": "Éverton Ribeiro",
+      "position": "AM",
+      "value": 4500000
+    },
+    {
+      "player_name": "Neymar",
+      "position": "LW",
+      "value": 75000000
+    },
+    {
+      "player_name": "Vinícius Júnior",
+      "position": "LW",
+      "value": 120000000
+    },
+    {
+      "player_name": "Gabriel Martinelli",
+      "position": "LW",
+      "value": 60000000
+    },
+    {
+      "player_name": "Rodrygo",
+      "position": "RW",
+      "value": 80000000
+    },
+    {
+      "player_name": "Antony",
+      "position": "RW",
+      "value": 75000000
+    },
+    {
+      "player_name": "Raphinha",
+      "position": "RW",
+      "value": 50000000
+    },
+    {
+      "player_name": "Richarlison",
+      "position": "CF",
+      "value": 50000000
+    },
+    {
+      "player_name": "Gabriel Jesus",
+      "position": "CF",
+      "value": 75000000
+    },
+    {
+      "player_name": "Pedro",
+      "position": "CF",
+      "value": 20000000
+    }
+  ],
+  "Switzerland": [
+    {
+      "player_name": "Nico Elvedi",
+      "position": "CB",
+      "value": 20000000
+    },
+    {
+      "player_name": "Manuel Akanji",
+      "position": "CB",
+      "value": 30000000
+    },
+    {
+      "player_name": "Fabian Schär",
+      "position": "CB",
+      "value": 10000000
+    },
+    {
+      "player_name": "Edimilson Fernandes",
+      "position": "CB",
+      "value": 3000000
+    },
+    {
+      "player_name": "Eray Cömert",
+      "position": "CB",
+      "value": 4000000
+    },
+    {
+      "player_name": "Ricardo Rodríguez",
+      "position": "LB",
+      "value": 3500000
+    },
+    {
+      "player_name": "Silvan Widmer",
+      "position": "RB",
+      "value": 5000000
+    },
+    {
+      "player_name": "Denis Zakaria",
+      "position": "DM",
+      "value": 20000000
+    },
+    {
+      "player_name": "Granit Xhaka",
+      "position": "DM",
+      "value": 28000000
+    },
+    {
+      "player_name": "Fabian Frei",
+      "position": "DM",
+      "value": 500000
+    },
+    {
+      "player_name": "Ardon Jashari",
+      "position": "DM",
+      "value": 2500000
+    },
+    {
+      "player_name": "Remo Freuler",
+      "position": "CM",
+      "value": 13000000
+    },
+    {
+      "player_name": "Djibril Sow",
+      "position": "CM",
+      "value": 22000000
+    },
+    {
+      "player_name": "Michel Aebischer",
+      "position": "CM",
+      "value": 3500000
+    },
+    {
+      "player_name": "Christian Fassnacht",
+      "position": "RM",
+      "value": 3000000
+    },
+    {
+      "player_name": "Fabian Rieder",
+      "position": "AM",
+      "value": 10000000
+    },
+    {
+      "player_name": "Xherdan Shaqiri",
+      "position": "RW",
+      "value": 4000000
+    },
+    {
+      "player_name": "Ruben Vargas",
+      "position": "RW",
+      "value": 6000000
+    },
+    {
+      "player_name": "Renato Steffen",
+      "position": "RW",
+      "value": 1000000
+    },
+    {
+      "player_name": "Breel Embolo",
+      "position": "CF",
+      "value": 20000000
+    },
+    {
+      "player_name": "Haris Seferović",
+      "position": "CF",
+      "value": 6000000
+    },
+    {
+      "player_name": "Noah Okafor",
+      "position": "CF",
+      "value": 25000000
+    }
+  ],
+  "Serbia": [
+    {
+      "player_name": "Nikola Milenković",
+      "position": "CB",
+      "value": 20000000
+    },
+    {
+      "player_name": "Strahinja Pavlović",
+      "position": "CB",
+      "value": 20000000
+    },
+    {
+      "player_name": "Nemanja Gudelj",
+      "position": "CB",
+      "value": 4000000
+    },
+    {
+      "player_name": "Milos Veljkovic",
+      "position": "CB",
+      "value": 5000000
+    },
+    {
+      "player_name": "Stefan Mitrović",
+      "position": "CB",
+      "value": 2000000
+    },
+    {
+      "player_name": "Srđan Babić",
+      "position": "CB",
+      "value": 3000000
+    },
+    {
+      "player_name": "Filip Mladenović",
+      "position": "LB",
+      "value": 1500000
+    },
+    {
+      "player_name": "Marko Grujić",
+      "position": "DM",
+      "value": 9000000
+    },
+    {
+      "player_name": "Sergej Milinković-Savić",
+      "position": "CM",
+      "value": 60000000
+    },
+    {
+      "player_name": "Nemanja Maksimović",
+      "position": "CM",
+      "value": 10000000
+    },
+    {
+      "player_name": "Saša Lukić",
+      "position": "CM",
+      "value": 13000000
+    },
+    {
+      "player_name": "Ivan Ilić",
+      "position": "CM",
+      "value": 13000000
+    },
+    {
+      "player_name": "Filip Kostić",
+      "position": "LM",
+      "value": 24000000
+    },
+    {
+      "player_name": "Darko Lazović",
+      "position": "LM",
+      "value": 2500000
+    },
+    {
+      "player_name": "Filip Djuricic",
+      "position": "AM",
+      "value": 2500000
+    },
+    {
+      "player_name": "Dušan Tadić",
+      "position": "AM",
+      "value": 7000000
+    },
+    {
+      "player_name": "Nemanja Radonjić",
+      "position": "LW",
+      "value": 4000000
+    },
+    {
+      "player_name": "Andrija Živković",
+      "position": "RW",
+      "value": 6000000
+    },
+    {
+      "player_name": "Aleksandar Mitrović",
+      "position": "CF",
+      "value": 28000000
+    },
+    {
+      "player_name": "Luka Jović",
+      "position": "CF",
+      "value": 14000000
+    },
+    {
+      "player_name": "Dušan Vlahović",
+      "position": "CF",
+      "value": 80000000
+    }
+  ],
+  "Cameroon": [
+    {
+      "player_name": "Nicolas N'Koulou",
+      "position": "CB",
+      "value": 1800000
+    },
+    {
+      "player_name": "Jean-Charles Castelletto",
+      "position": "CB",
+      "value": 4000000
+    },
+    {
+      "player_name": "Enzo Ebosse",
+      "position": "CB",
+      "value": 4500000
+    },
+    {
+      "player_name": "Christopher Wooh",
+      "position": "CB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Nouhou Tolo",
+      "position": "LB",
+      "value": 3000000
+    },
+    {
+      "player_name": "Collins Fai",
+      "position": "RB",
+      "value": 1000000
+    },
+    {
+      "player_name": "Gaël Ondoua",
+      "position": "DM",
+      "value": 800000
+    },
+    {
+      "player_name": "Martin Hongla Yma II",
+      "position": "DM",
+      "value": 3500000
+    },
+    {
+      "player_name": "Samuel Gouet",
+      "position": "DM",
+      "value": 1300000
+    },
+    {
+      "player_name": "André Zambo Anguissa",
+      "position": "CM",
+      "value": 38000000
+    },
+    {
+      "player_name": "Pierre Kunde",
+      "position": "CM",
+      "value": 2000000
+    },
+    {
+      "player_name": "Olivier Ntcham",
+      "position": "AM",
+      "value": 2800000
+    },
+    {
+      "player_name": "Moumi Ngamaleu",
+      "position": "LW",
+      "value": 4000000
+    },
+    {
+      "player_name": "Georges-Kevin N'Koudou",
+      "position": "LW",
+      "value": 5500000
+    },
+    {
+      "player_name": "Jerome Mbekeli",
+      "position": "LW",
+      "value": 300000
+    },
+    {
+      "player_name": "Bryan Mbeumo",
+      "position": "RW",
+      "value": 28000000
+    },
+    {
+      "player_name": "Christian Bassogog",
+      "position": "RW",
+      "value": 4500000
+    },
+    {
+      "player_name": "Karl Toko Ekambi",
+      "position": "CF",
+      "value": 12000000
+    },
+    {
+      "player_name": "Vincent Aboubakar",
+      "position": "CF",
+      "value": 5000000
+    },
+    {
+      "player_name": "Eric Maxim Choupo-Moting",
+      "position": "CF",
+      "value": 6000000
+    }
+  ],
+  "Portugal": [
+    {
+      "player_name": "Rúben Dias",
+      "position": "CB",
+      "value": 75000000
+    },
+    {
+      "player_name": "Danilo Pereira",
+      "position": "CB",
+      "value": 12000000
+    },
+    {
+      "player_name": "Pepe",
+      "position": "CB",
+      "value": 1000000
+    },
+    {
+      "player_name": "António Silva",
+      "position": "CB",
+      "value": 15000000
+    },
+    {
+      "player_name": "Raphaël Guerreiro",
+      "position": "LB",
+      "value": 20000000
+    },
+    {
+      "player_name": "Nuno Mendes",
+      "position": "LB",
+      "value": 60000000
+    },
+    {
+      "player_name": "João Cancelo",
+      "position": "RB",
+      "value": 70000000
+    },
+    {
+      "player_name": "Diogo Dalot",
+      "position": "RB",
+      "value": 32000000
+    },
+    {
+      "player_name": "Rúben Neves",
+      "position": "DM",
+      "value": 40000000
+    },
+    {
+      "player_name": "William Carvalho",
+      "position": "DM",
+      "value": 16000000
+    },
+    {
+      "player_name": "João Palhinha",
+      "position": "DM",
+      "value": 28000000
+    },
+    {
+      "player_name": "João Mário",
+      "position": "CM",
+      "value": 12000000
+    },
+    {
+      "player_name": "Vitinha",
+      "position": "CM",
+      "value": 45000000
+    },
+    {
+      "player_name": "Matheus Nunes",
+      "position": "CM",
+      "value": 45000000
+    },
+    {
+      "player_name": "Bruno Fernandes",
+      "position": "AM",
+      "value": 75000000
+    },
+    {
+      "player_name": "Bernardo Silva",
+      "position": "AM",
+      "value": 80000000
+    },
+    {
+      "player_name": "Otavinho",
+      "position": "AM",
+      "value": 30000000
+    },
+    {
+      "player_name": "João Félix",
+      "position": "LW",
+      "value": 50000000
+    },
+    {
+      "player_name": "Rafael Leão",
+      "position": "LW",
+      "value": 85000000
+    },
+    {
+      "player_name": "Ricardo Horta",
+      "position": "LW",
+      "value": 20000000
+    },
+    {
+      "player_name": "Cristiano Ronaldo",
+      "position": "CF",
+      "value": 20000000
+    },
+    {
+      "player_name": "André Silva",
+      "position": "CF",
+      "value": 24000000
+    },
+    {
+      "player_name": "Gonçalo Ramos",
+      "position": "CF",
+      "value": 24000000
+    }
+  ],
+  "Uruguay": [
+    {
+      "player_name": "José Giménez",
+      "position": "CB",
+      "value": 40000000
+    },
+    {
+      "player_name": "Sebastián Coates",
+      "position": "CB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Diego Godín",
+      "position": "CB",
+      "value": 700000
+    },
+    {
+      "player_name": "Martín Cáceres",
+      "position": "CB",
+      "value": 500000
+    },
+    {
+      "player_name": "Mathías Olivera",
+      "position": "LB",
+      "value": 15000000
+    },
+    {
+      "player_name": "Matías Viña",
+      "position": "LB",
+      "value": 6000000
+    },
+    {
+      "player_name": "Guillermo Varela",
+      "position": "RB",
+      "value": 2000000
+    },
+    {
+      "player_name": "Federico Valverde",
+      "position": "CM",
+      "value": 100000000
+    },
+    {
+      "player_name": "Rodrigo Bentancur",
+      "position": "CM",
+      "value": 40000000
+    },
+    {
+      "player_name": "Matías Vecino",
+      "position": "CM",
+      "value": 4500000
+    },
+    {
+      "player_name": "Nicolás De La Cruz",
+      "position": "CM",
+      "value": 13000000
+    },
+    {
+      "player_name": "Giorgian De Arrascaeta",
+      "position": "AM",
+      "value": 19000000
+    },
+    {
+      "player_name": "Facundo Pellistri",
+      "position": "RW",
+      "value": 3000000
+    },
+    {
+      "player_name": "Agustín Canobbio",
+      "position": "RW",
+      "value": 4000000
+    },
+    {
+      "player_name": "Maxi Gómez",
+      "position": "CF",
+      "value": 7500000
+    },
+    {
+      "player_name": "Luis Suárez",
+      "position": "CF",
+      "value": 4000000
+    },
+    {
+      "player_name": "Darwin Núñez",
+      "position": "CF",
+      "value": 70000000
+    },
+    {
+      "player_name": "Edinson Cavani",
+      "position": "CF",
+      "value": 5000000
+    }
+  ],
+  "South Korea": [
+    {
+      "player_name": "Min Jae Kim",
+      "position": "CB",
+      "value": 35000000
+    },
+    {
+      "player_name": "Kwon Kyung-Won",
+      "position": "CB",
+      "value": 800000
+    },
+    {
+      "player_name": "Kim Young-Gwon",
+      "position": "CB",
+      "value": 600000
+    },
+    {
+      "player_name": "Kim Jin-Su",
+      "position": "LB",
+      "value": 575000
+    },
+    {
+      "player_name": "Hong Chul",
+      "position": "LB",
+      "value": 500000
+    },
+    {
+      "player_name": "Kim Moon-Hwan",
+      "position": "RB",
+      "value": 950000
+    },
+    {
+      "player_name": "Son Jun-Ho",
+      "position": "DM",
+      "value": 3500000
+    },
+    {
+      "player_name": "Jung Woo-Young",
+      "position": "DM",
+      "value": 600000
+    },
+    {
+      "player_name": "Hwang In-Beom",
+      "position": "CM",
+      "value": 3500000
+    },
+    {
+      "player_name": "Paik Seung-Ho",
+      "position": "CM",
+      "value": 1000000
+    },
+    {
+      "player_name": "Lee Kang-In",
+      "position": "AM",
+      "value": 12000000
+    },
+    {
+      "player_name": "Jeong Woo-Yeong",
+      "position": "AM",
+      "value": 5500000
+    },
+    {
+      "player_name": "Lee Jae-Sung",
+      "position": "AM",
+      "value": 3000000
+    },
+    {
+      "player_name": "Na Sangho",
+      "position": "LW",
+      "value": 900000
+    },
+    {
+      "player_name": "Son Heung-Min",
+      "position": "LW",
+      "value": 70000000
+    },
+    {
+      "player_name": "Kwon Chang-Hoon",
+      "position": "RW",
+      "value": 900000
+    },
+    {
+      "player_name": "Hwang Hee-Chan",
+      "position": "CF",
+      "value": 12000000
+    },
+    {
+      "player_name": "Hwang Ui-jo",
+      "position": "CF",
+      "value": 5000000
+    },
+    {
+      "player_name": "Cho Kyu-Sung",
+      "position": "CF",
+      "value": 1400000
+    }
+  ],
+  "Ghana": [
+    {
+      "player_name": "Mohamed Salisu",
+      "position": "CB",
+      "value": 18000000
+    },
+    {
+      "player_name": "Alexander Djiku",
+      "position": "CB",
+      "value": 8000000
+    },
+    {
+      "player_name": "Daniel Amartey",
+      "position": "CB",
+      "value": 15000000
+    },
+    {
+      "player_name": "Alidu Seidu",
+      "position": "CB",
+      "value": 4500000
+    },
+    {
+      "player_name": "Gideon Mensah",
+      "position": "LB",
+      "value": 2000000
+    },
+    {
+      "player_name": "Baba Rahman",
+      "position": "LB",
+      "value": 1800000
+    },
+    {
+      "player_name": "Tariq Lamptey",
+      "position": "RB",
+      "value": 15000000
+    },
+    {
+      "player_name": "Denis Odoi",
+      "position": "RB",
+      "value": 600000
+    },
+    {
+      "player_name": "Thomas Partey",
+      "position": "DM",
+      "value": 38000000
+    },
+    {
+      "player_name": "Salis Abdul Samed",
+      "position": "DM",
+      "value": 10000000
+    },
+    {
+      "player_name": "Mohammed Kudus",
+      "position": "AM",
+      "value": 15000000
+    },
+    {
+      "player_name": "Daniel-Kofi Kyereh",
+      "position": "AM",
+      "value": 8000000
+    },
+    {
+      "player_name": "André Ayew",
+      "position": "LW",
+      "value": 2200000
+    },
+    {
+      "player_name": "Kamaldeen Sulemana",
+      "position": "LW",
+      "value": 18000000
+    },
+    {
+      "player_name": "Iñaki Williams",
+      "position": "RW",
+      "value": 25000000
+    },
+    {
+      "player_name": "Osman Bukari",
+      "position": "RW",
+      "value": 5000000
+    },
+    {
+      "player_name": "Antoine Semenyo",
+      "position": "RW",
+      "value": 3000000
+    },
+    {
+      "player_name": "Abdul Fatawu Issahaku",
+      "position": "RW",
+      "value": 3000000
+    },
+    {
+      "player_name": "Jordan Ayew",
+      "position": "CF",
+      "value": 6000000
+    }
+  ]
+}

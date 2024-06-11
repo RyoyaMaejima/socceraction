@@ -1,4 +1,4 @@
-# Socceraction
+# SoccerAction
 
 本リポジトリは卒業研究にて作成したサッカー選手の評価モデルです。  
 本モデルは次のモデルを改変したものです。 https://github.com/ML-KULeuven/socceraction.git.

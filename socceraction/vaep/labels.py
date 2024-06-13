@@ -24,7 +24,6 @@ def scores(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFram
         next x actions; otherwise False.
     """
     # merging goals, owngoals and team_ids
-
     goals = actions['type_name'].str.contains('shot') & (
         actions['result_id'] == spadl.results.index('success')
     )
@@ -67,7 +66,7 @@ def concedes(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFr
         True if a goal was conceded by the team possessing the ball within the
         next x actions; otherwise False.
     """
-    # merging goals,owngoals and team_ids
+    # merging goals, owngoals and team_ids
     goals = actions['type_name'].str.contains('shot') & (
         actions['result_id'] == spadl.results.index('success')
     )
@@ -115,8 +114,10 @@ def goal_from_shot(actions: DataFrame[SPADLSchema]) -> pd.DataFrame:
 
     return pd.DataFrame(goals, columns=['goal_from_shot'])
 
+# add existing model
 def recoveries(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFrame:
 
+    # merging tackles, interceptions and team_ids
     tackles = actions['type_name'].str.contains('tackle') & (
         actions['result_id'] == spadl.results.index('success')
     )
@@ -126,6 +127,7 @@ def recoveries(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.Data
     y = pd.concat([tackles, interceptions, actions['team_id']], axis=1)
     y.columns = ['tackle', 'interception', 'team_id']
 
+    # adding future results
     for i in range(nr_actions):
         for c in ['team_id', 'tackle', 'interception']:
             shifted = y[c].shift(-i)
@@ -142,6 +144,7 @@ def recoveries(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.Data
 
 def losts(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFrame:
 
+    # merging tackles, interceptions and team_ids
     tackles = actions['type_name'].str.contains('tackle') & (
         actions['result_id'] == spadl.results.index('success')
     )
@@ -151,6 +154,7 @@ def losts(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFrame
     y = pd.concat([tackles, interceptions, actions['team_id']], axis=1)
     y.columns = ['tackle', 'interception', 'team_id']
 
+    # adding future results
     for i in range(nr_actions):
         for c in ['team_id', 'tackle', 'interception']:
             shifted = y[c].shift(-i)
@@ -167,6 +171,7 @@ def losts(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFrame
 
 def attacked(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFrame:
 
+    # merging crosses, shots and team_ids
     crosses = actions['type_name'].str.contains('cross') & (
         actions['result_id'] == spadl.results.index('success')
     )
@@ -179,6 +184,7 @@ def attacked(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFr
     y = pd.concat([crosses, shots, owngoals, actions['team_id']], axis=1)
     y.columns = ['cross', 'shot', 'owngoal', 'team_id']
 
+    # adding future results
     for i in range(1, nr_actions):
         for c in ['team_id', 'cross', 'shot', 'owngoal']:
             shifted = y[c].shift(-i)
@@ -196,6 +202,7 @@ def attacked(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFr
 
 def attacks(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFrame:
 
+    # merging crosses, shots and team_ids
     crosses = actions['type_name'].str.contains('cross') & (
         actions['result_id'] == spadl.results.index('success')
     )
@@ -208,6 +215,7 @@ def attacks(actions: DataFrame[SPADLSchema], nr_actions: int = 10) -> pd.DataFra
     y = pd.concat([crosses, shots, owngoals, actions['team_id']], axis=1)
     y.columns = ['cross', 'shot', 'owngoal', 'team_id']
 
+    # adding future results
     for i in range(1, nr_actions):
         for c in ['team_id', 'cross', 'shot', 'owngoal']:
             shifted = y[c].shift(-i)

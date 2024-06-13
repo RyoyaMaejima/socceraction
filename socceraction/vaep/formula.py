@@ -98,6 +98,7 @@ def defensive_value(
     pd.Series
         The defensive value of each action.
     """
+    # exiting model
     # sameteam = _prev(actions.team_id) == actions.team_id
     # prev_concedes = _prev(concedes) * sameteam + _prev(scores) * (~sameteam)
 
@@ -112,6 +113,7 @@ def defensive_value(
 
     # return -(concedes - prev_concedes)
 
+    # proposed model
     sameteam = _prev(actions.team_id) == actions.team_id
     vdep = recoveries - c * attacked
     prev_recoveries = _prev(recoveries) * sameteam + _prev(losts) * (~sameteam)
